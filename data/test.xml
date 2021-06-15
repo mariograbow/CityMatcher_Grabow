@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data>
+    <city name="Stuttgart" population="1265464">
+        <area>234.08</area>
+    </city>
+    <city name="Moskau" population="1265464">
+        <area>235.654</area>
+    </city>
+    <city name="Filderstadt" population="435643565">
+        <area>347665.65</area>
+    </city>
+</data>
